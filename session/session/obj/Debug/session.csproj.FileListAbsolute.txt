@@ -1,0 +1,5 @@
+E:\a\session\session\bin\session.dll
+E:\a\session\session\bin\session.pdb
+E:\a\session\session\obj\Debug\session.csprojResolveAssemblyReference.cache
+E:\a\session\session\obj\Debug\session.dll
+E:\a\session\session\obj\Debug\session.pdb
